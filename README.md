@@ -247,4 +247,4 @@ This repository serves as the official landing page for Like a Dragon: Pirate Ya
 **Get the most recent version of Like a Dragon: Pirate Yakuza in Hawaii today!**
 
 ---
-**Last updated:** 2026-09-14 07:14:36 UTC
+**Last updated:** 2026-09-14 14:27:46 UTC
